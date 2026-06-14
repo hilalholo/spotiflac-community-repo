@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-14T00:00:00Z",
+  "extensions": [
+    {
+      "id": "lrclib-lyrics",
+      "display_name": "LRCLIB Lyrics",
+      "version": "1.0.1",
+      "description": "Synced and plain lyrics from LRCLIB. Free, no API key, 3M+ songs. Karaoke-style LINE_SYNCED with plain fallback.",
+      "category": "lyrics",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/lrclib-lyrics.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "paxsenix-lyrics",
+      "display_name": "Paxsenix Lyrics",
+      "version": "1.0.1",
+      "description": "Multi-source lyrics from Apple Music, Spotify, YouTube and Genius. Free, no key required.",
+      "category": "lyrics",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/paxsenix-lyrics.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "musicbrainz-metadata",
+      "display_name": "MusicBrainz Metadata",
+      "version": "1.0.1",
+      "description": "Search tracks and fetch metadata from MusicBrainz open encyclopedia. Free, no API key. Great for rare and indie tracks.",
+      "category": "metadata",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/musicbrainz-metadata.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "lastfm-metadata",
+      "display_name": "Last.fm Metadata",
+      "version": "1.0.1",
+      "description": "Search tracks from Last.fm massive database with album art. Optional free API key for higher limits.",
+      "category": "metadata",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/lastfm-metadata.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "itunes-metadata",
+      "display_name": "iTunes Search",
+      "version": "1.0.0",
+      "description": "Search Apple iTunes catalog. Free, no API key. Returns high quality 600x600 artwork and accurate release dates.",
+      "category": "metadata",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/itunes-metadata.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "deezer-metadata",
+      "display_name": "Deezer Search",
+      "version": "1.0.0",
+      "description": "Search Deezer catalog. Free public API, no key needed. Returns ISRC codes and high quality artwork.",
+      "category": "metadata",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/deezer-metadata.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "discogs-metadata",
+      "display_name": "Discogs Metadata",
+      "version": "1.0.0",
+      "description": "Search Discogs vinyl and music database. Best for rare, indie, and collector tracks. Free token at discogs.com/settings/developers.",
+      "category": "metadata",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/discogs-metadata.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "filename-cleaner",
+      "display_name": "Filename Cleaner",
+      "version": "1.0.1",
+      "description": "Removes clutter from filenames: (Official Video), [HD], (Lyrics), [4K], (Audio), (Visualizer) automatically.",
+      "category": "utility",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/filename-cleaner.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "mp3-converter",
+      "display_name": "MP3 Converter",
+      "version": "1.0.1",
+      "description": "Convert FLAC to MP3 (128/192/256/320kbps). Perfect for devices that don't support FLAC.",
+      "category": "utility",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/mp3-converter.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "aac-converter",
+      "display_name": "AAC Converter",
+      "version": "1.0.1",
+      "description": "Convert FLAC to AAC/M4A. Ideal for Apple devices. Smaller file size with great quality.",
+      "category": "utility",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/aac-converter.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "opus-converter",
+      "display_name": "Opus Converter",
+      "version": "1.0.1",
+      "description": "Convert FLAC to Opus. Smallest file size with excellent audio quality. Best for storage-limited devices.",
+      "category": "utility",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/opus-converter.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "wav-converter",
+      "display_name": "WAV Converter",
+      "version": "1.0.0",
+      "description": "Convert FLAC to WAV uncompressed (24-bit or 16-bit). Ideal for DAWs, pro audio software.",
+      "category": "utility",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/wav-converter.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "metadata-tagger",
+      "display_name": "Metadata Tagger",
+      "version": "1.0.0",
+      "description": "Write correct metadata tags (title, artist, album, ISRC, track number, date) into downloaded files using FFmpeg.",
+      "category": "utility",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/metadata-tagger.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "cover-art-embedder",
+      "display_name": "Cover Art Embedder",
+      "version": "1.0.0",
+      "description": "Auto-fetch and embed album artwork. Searches MusicBrainz Cover Art Archive first, then iTunes as fallback.",
+      "category": "utility",
+      "download_url": "https://raw.githubusercontent.com/hilalholo/spotiflac-community-repo/main/extensions/cover-art-embedder.spotiflac-ext",
+      "updated_at": "2026-06-14T00:00:00Z"
+    }
+  ]
+}
